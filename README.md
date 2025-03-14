@@ -1,7 +1,3 @@
-Ótima pergunta! A organização dos arquivos em um projeto de site faz muita diferença na **manutenção** e **escalabilidade**. Aqui está um modelo de estrutura bem organizada:
-
----
-
 ## 📂 **Estrutura de pastas**
 ```
 /meu-site
@@ -92,4 +88,4 @@ h1 {
 ✅ **Código reutilizável** → Componentes como navbar e footer podem ser reutilizados.  
 ✅ **CSS otimizado** → Variáveis centralizadas permitem ajustes rápidos no tema.  
 
-Se precisar de algo mais específico, só falar! 🚀
+
